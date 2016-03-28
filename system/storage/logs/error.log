@@ -1,0 +1,5 @@
+2016-03-28 6:16:06 - PHP Notice:  Undefined variable: productx in E:\htdocs\e-halalfood\catalog\view\theme\default\template\module\featured.tpl on line 84
+2016-03-28 6:16:06 - PHP Warning:  Invalid argument supplied for foreach() in E:\htdocs\e-halalfood\catalog\view\theme\default\template\module\featured.tpl on line 84
+2016-03-28 6:16:06 - PHP Notice:  Undefined variable: productxx in E:\htdocs\e-halalfood\catalog\view\theme\default\template\module\featured.tpl on line 112
+2016-03-28 6:16:06 - PHP Warning:  Invalid argument supplied for foreach() in E:\htdocs\e-halalfood\catalog\view\theme\default\template\module\featured.tpl on line 112
+2016-03-28 6:47:56 - PHP Warning:  copy(catalog/pizza-1.jpg): failed to open stream: No such file or directory in E:\htdocs\e-halalfood\admin\model\catalog\product.php on line 32

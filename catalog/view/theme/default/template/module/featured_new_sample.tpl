@@ -1,0 +1,313 @@
+
+    <div class="main">
+		<div class="container">
+        <!-- BEGIN SALE PRODUCT & NEW ARRIVALS -->
+        <div class="row margin-bottom-10">
+
+           
+          
+
+            
+		  <!-- BEGIN SALE PRODUCT -->
+          <div class="col-md-12 sale-product">
+            <h2>New Arrivals</h2>
+            <div class="owl-carousel owl-carousel5">
+			   
+			  <div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/large/14004-1.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			  </div> 
+			  
+			  
+			  <div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/large/32013_2.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			  </div> 
+			  		 
+			  
+			 <div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/large/25022_2.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			  </div> 
+			  
+			  
+			  <div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/large/26005_2.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			  </div> 
+			  
+			  
+			  <div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/large/11032-2.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			  </div> 			  
+			  
+			  
+			  
+			  <div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/large/16002_2.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			  </div> 
+
+			  
+			  
+			  
+            </div>			 
+          </div>
+          <!-- END SALE PRODUCT -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- BEGIN fast view of a product -->
+    
+    <!-- END fast view of a product -->
+
+
+
+            
+        </div>
+        <!-- END SALE PRODUCT & NEW ARRIVALS -->
+
+		
+		
+        <!-- BEGIN SIDEBAR & CONTENT -->
+        <div class="row margin-bottom-40 ">
+          
+        <!-- BEGIN CONTENT -->
+        <div class="col-md-9 col-sm-8">
+            
+              
+
+		<h2>Featured items</h2>
+		<div class="owl-carousel owl-carousel3 margin-bottom-25">
+		
+		
+		
+			<div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/small/36055-1.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			</div>			
+		
+		
+			<div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/small/36057-1.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			</div>					
+			
+				
+				
+			<div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/small/36054-1.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			</div>									
+			
+			
+			<div>
+			  <div class="product-item">
+			  <div class="pi-img-wrapper">
+			  <a href="#">
+			  <img src="product_images/small/36023-1.jpg" class="img-responsive" alt="GITS Dal Makhani 300g"></a> 
+			  </div> 
+			  <h3><a href="#">GITS Dal Makhani 300g</a></h3>
+			  <div class="pi-price"> ¥345</div> 
+			  <a href="javascript:void(0);" onclick="addToCart(3652,'1','divitemN3652');" class="btn btn-default add2cart">Add to cart</a>
+			  </div> 
+			  <div id="divitemN3652"></div>
+			  <div class="sticker sticker-new"></div>
+			</div>												
+				
+		</div>		
+				
+				
+			
+
+			 
+			 
+			<h2>Rare items</h2>
+			<div class="owl-carousel owl-carousel3">
+		
+			<div>
+				<div class="product-item">
+					<div class="pi-img-wrapper">
+					<a href="#"><img src="product_images/large/52034_1.jpg" class="img-responsive" alt="Pickle Mix 400g"></a>
+					</div> 
+					<h3><a href="#">Pickle Mix 400g</a></h3> 
+					<div class="pi-price" >¥432</div> 
+					<a href="javascript:void(0);" onclick="addToCart(2515,'1','divitemR2515');" class="btn btn-default add2cart">Add to cart</a> 
+				</div>
+				<div id="divitemR2515"></div> 
+			</div>
+				<div id="product-pop-upR46030" style="display: none; width: 700px;">
+				<div class="product-page product-pop-up">
+				<div class="row"> 
+				<div class="col-md-6 col-sm-6 col-xs-3">
+				<div class="product-main-image"> 
+					<img src="product_images/large/52031_1.jpg" alt="Parle Gluco Biscuits79.9g" class="img-responsive"> </div> 
+					<div class="product-other-images">
+					<a href="#" class="active">
+					<img alt="Parle Gluco Biscuits79.9g" src="product_images/large/52031_1.jpg"></a></div></div>
+					<div class="col-md-6 col-sm-6 col-xs-9">
+					<h2>Parle Gluco Biscuits79.9g</h2>
+					<div class="price-availability-block clearfix"> 
+					<div class="price "> <strong>¥108</strong></div>
+					<div class="availability">Availability: <strong>In Stock</strong></div>
+				</div>
+			<div class="price-availability-block clearfix">
+			<div class="availability"></div><div>
+			<img src="image/deli_tujo.jpg"></div><div></div>
+			</div><div class="description"><p></p> 
+			</div> <div class="product-page-cart"> 
+			<div class="product-quantity">
+			<input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product5bd8.html?id=46030" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper">
+			<a href="#">
+			<img src="product_images/large/52031_1.jpg" class="img-responsive" alt="Parle Gluco Biscuits79.9g"></a></div> <h3><a href="product5bd8.html?id=46030">Parle Gluco Biscuits79.9g</a></h3> <div class="pi-price" >¥108</div> <a href="javascript:void(0);" onclick="addToCart(46030,'1','divitemR46030');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR46030"></div> </div><div id="product-pop-upR16007" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> 
+			<div class="product-main-image"> 
+			<img src="product_images/large/22001-1.jpg" alt="Dates 250g With Seed" class="img-responsive">
+			</div> 
+			<div class="product-other-images">
+			<a href="#" class="active">
+			<img alt="Dates 250g With Seed" src="product_images/large/22001-1.jpg"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Dates 250g With Seed</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥384</strong></div><div class="availability">Availability: <strong>In Stock</strong></div></div><div class="price-availability-block clearfix"><div class="availability"><div style="font-size:16px;color:#DF0707;padding:8px 5px 0px 5px;">Limited Stock! Hurry Up...</div></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p>Dates 250g With Seed</p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product0f0d.html?id=16007" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item">
+			<div class="pi-img-wrapper"><a href="#">
+			<img src="product_images/large/52029-1.jpg" class="img-responsive" alt="Dates 250g With Seed"></a></div> 
+			<h3><a href="#">Dates 250g With Seed</a></h3>
+			<div class="pi-price" >¥384</div>
+			<a href="javascript:void(0);" onclick="addToCart(16007,'1','divitemR16007');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR16007"></div> </div><div id="product-pop-upR3215" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> 
+			<div class="product-main-image"> 
+			<img src="product_images/large/52029-1.jpg" alt="Haldiram Lahsun Sev 150g" class="img-responsive"> </div> <div class="product-other-images"><a href="product4b07.html?id=3215" class="active"><img alt="Haldiram Lahsun Sev 150g" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Haldiram Lahsun Sev 150g</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥248</strong></div><div class="availability">Availability: <strong><span style="color:red;font-size:14px">Out Of Stock</span></strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p>Haldiram Lahsun Sev 150g</p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product4b07.html?id=3215" class="btn btn-default">More details</a>  </div></div></div></div></div> 
+			<div><div class="product-item"><div class="pi-img-wrapper">
+			<a href="#"><img src="product_images/large/52029-1.jpg" class="img-responsive" alt="Haldiram Lahsun Sev 150g"></a></div> <h3><a href="product4b07.html?id=3215">Haldiram Lahsun Sev 150g</a></h3> <div class="pi-price" >¥248</div> <a href="javascript:void(0);" onclick="addToCart(3215,'1','divitemR3215');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR3215"></div> </div><div id="product-pop-upR5224" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> <div class="product-main-image"> <img src="#" alt="Sauvignon Blanc White WINE 750ml (GROVER ZAMPA)" class="img-responsive"> </div> <div class="product-other-images"><a href="productb081.html?id=5224" class="active"><img alt="Sauvignon Blanc White WINE 750ml (GROVER ZAMPA)" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Sauvignon Blanc White WINE 750ml (GROVER ZAMPA)</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥1,836</strong></div><div class="availability">Availability: <strong>In Stock</strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p>Our Sauvignon Blanc bright golden wine is delightfully typical of the varietal, giving green gooseberry aromas. Perfectly sunny days at harvesting time add a hint of guava & dried fruits to the complexity. </p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="productb081.html?id=5224" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper"><a href="#"><img src="#" class="img-responsive" alt="Sauvignon Blanc White WINE 750ml (GROVER ZAMPA)"></a></div> <h3><a href="productb081.html?id=5224">Sauvignon Blanc White WINE 750ml (GROVER ZAMPA)</a></h3> <div class="pi-price" >¥1,836</div> <a href="javascript:void(0);" onclick="addToCart(5224,'1','divitemR5224');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR5224"></div> </div><div id="product-pop-upR20011" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> <div class="product-main-image"> <img src="#" alt="Sona Masoori Rice 5kg" class="img-responsive"> </div> <div class="product-other-images"><a href="product5f56.html?id=20011" class="active"><img alt="Sona Masoori Rice 5kg" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Sona Masoori Rice 5kg</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥3,510</strong></div><div class="availability">Availability: <strong>In Stock</strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p></p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product5f56.html?id=20011" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper"><a href="#"><img src="#" class="img-responsive" alt="Sona Masoori Rice 5kg"></a></div> <h3><a href="product5f56.html?id=20011">Sona Masoori Rice 5kg</a></h3> <div class="pi-price" >¥3,510</div> <a href="javascript:void(0);" onclick="addToCart(20011,'1','divitemR20011');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR20011"></div> </div><div id="product-pop-upR3209" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> <div class="product-main-image"> <img src="#" alt="Haldiram Moong Dal 150g" class="img-responsive"> </div> <div class="product-other-images"><a href="product0d79.html?id=3209" class="active"><img alt="Haldiram Moong Dal 150g" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Haldiram Moong Dal 150g</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥248</strong></div><div class="availability">Availability: <strong>In Stock</strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p>HALDIRAM Moong Dal is made from moong pulse, palm oil, edible common and salt.
+			Crunchy in taste.</p> 
+			</div> 
+			<div class="product-page-cart">   
+			<div class="product-quantity">
+			<input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product0d79.html?id=3209" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper"><a href="#"><img src="#" class="img-responsive" alt="Haldiram Moong Dal 150g"></a></div> <h3><a href="product0d79.html?id=3209">Haldiram Moong Dal 150g</a></h3> <div class="pi-price" >¥248</div> <a href="javascript:void(0);" onclick="addToCart(3209,'1','divitemR3209');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR3209"></div> </div><div id="product-pop-upR1768" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> <div class="product-main-image"> <img src="#" alt="Multigrain Atta Pillusbury 1kg" class="img-responsive"> </div> <div class="product-other-images"><a href="product020e.html?id=1768" class="active"><img alt="Multigrain Atta Pillusbury 1kg" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Multigrain Atta Pillusbury 1kg</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥324</strong></div><div class="availability">Availability: <strong>In Stock</strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p></p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product020e.html?id=1768" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper"><a href="#"><img src="#" class="img-responsive" alt="Multigrain Atta Pillusbury 1kg"></a></div> <h3><a href="product020e.html?id=1768">Multigrain Atta Pillusbury 1kg</a></h3> <div class="pi-price" >¥324</div> <a href="javascript:void(0);" onclick="addToCart(1768,'1','divitemR1768');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR1768"></div> </div><div id="product-pop-upR5229" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> <div class="product-main-image"> <img src="#" alt="Beer Indian Boss (Premium Lager) 330ml" class="img-responsive"> </div> <div class="product-other-images"><a href="#" class="active"><img alt="Beer Indian Boss (Premium Lager) 330ml" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Beer Indian Boss (Premium Lager) 330ml</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥322</strong></div><div class="availability">Availability: <strong>In Stock</strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p>Ambika Trading Company brings to you the BOSS of all Indian Beers, to ensure you enjoy the best quality PREMIUM LAGER BEER. INDIAN BOSS is brewed from natural ingredients and no artificial flavours and alcohol content is below 5%.  </p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="productc227.html?id=5229" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper"><a href="productc227.html?id=5229"><img src="#" class="img-responsive" alt="Beer Indian Boss (Premium Lager) 330ml"></a></div> <h3><a href="productc227.html?id=5229">Beer Indian Boss (Premium Lager) 330ml</a></h3> <div class="pi-price" >¥322</div> <a href="javascript:void(0);" onclick="addToCart(5229,'1','divitemR5229');" class="btn btn-default add2cart">Add to cart</a> </div><div id="divitemR5229"></div> </div><div id="product-pop-upR16008" style="display: none; width: 700px;"><div class="product-page product-pop-up"><div class="row"> <div class="col-md-6 col-sm-6 col-xs-3"> <div class="product-main-image"> <img src="#" alt="Dates 250g Without Seed" class="img-responsive"> </div> <div class="product-other-images"><a href="product908b.html?id=16008" class="active"><img alt="Dates 250g Without Seed" src="#"></a></div></div><div class="col-md-6 col-sm-6 col-xs-9"><h2>Dates 250g Without Seed</h2> <div class="price-availability-block clearfix"> <div class="price "> <strong>¥427</strong></div><div class="availability">Availability: <strong><span style="color:red;font-size:14px">Out Of Stock</span></strong></div></div><div class="price-availability-block clearfix"><div class="availability"></div><div><img src="image/deli_tujo.jpg"></div><div></div></div><div class="description"><p>Dates 250g Without Seed</p> </div> <div class="product-page-cart">   <div class="product-quantity"><input id="product-quantity" type="text" value="0" readonly name="product-quantity" class="form-control input-sm"></div><button class="btn btn-primary" type="submit">Add to cart</button><a href="product908b.html?id=16008" class="btn btn-default">More details</a>  </div></div></div></div></div> <div><div class="product-item"><div class="pi-img-wrapper"><a href="#"><img src="#" class="img-responsive" alt="Dates 250g Without Seed"></a></div> <h3><a href="product908b.html?id=16008">Dates 250g Without Seed</a></h3> <div class="pi-price" >¥427</div> <a href="javascript:void(0);" onclick="addToCart(16008,'1','divitemR16008');" class="btn btn-default add2cart">Add to cart</a>
+			</div>
+			<div id="divitemR16008"></div> 
+			</div>
+			</div>
+  
+            
+          </div>
+          <!-- END CONTENT -->
+            <!-- BEGIN SIDEBAR -->
+          <div class="sidebar col-md-3 col-sm-4">
+              
+              <ul class="list-group margin-bottom-25 sidebar-menu"> 
+				<li class="list-group-item clearfix">
+				<a href="#"><i class="fa fa-angle-right"></i> LOOSE SPICES</a></li><li class="list-group-item clearfix"><a href="productslistb0b7.html?cat=6"><i class="fa fa-angle-right"></i> READY MIX SPICES</a></li><li class="list-group-item clearfix"><a href="productslistc728.html?cat=7"><i class="fa fa-angle-right"></i> MOUTH FRESHENERS</a></li><li class="list-group-item clearfix"><a href="productslistd65e.html?cat=8"><i class="fa fa-angle-right"></i> HERBS</a></li><li class="list-group-item clearfix"><a href="productslist0b40.html?cat=9"><i class="fa fa-angle-right"></i> DRY FRUITS </a></li><li class="list-group-item clearfix"><a href="productslistc055.html?cat=17"><i class="fa fa-angle-right"></i> PAPAD</a></li><li class="list-group-item clearfix"><a href="productslist5c96.html?cat=28"><i class="fa fa-angle-right"></i> PACKED SPICES</a></li><li class="list-group-item clearfix"><a href="productslistaeb3.html?cat=29"><i class="fa fa-angle-right"></i> WINE</a></li><li class="list-group-item clearfix"><a href="productslistb97c.html?cat=30"><i class="fa fa-angle-right"></i> BEER</a></li><li class="list-group-item clearfix"><a href="productslist1cd2.html?cat=10"><i class="fa fa-angle-right"></i> ONIONS</a></li><li class="list-group-item clearfix"><a href="productslist6c5d.html?cat=18"><i class="fa fa-angle-right"></i> PICKLES</a></li><li class="list-group-item clearfix"><a href="productslist0fbe.html?cat=21"><i class="fa fa-angle-right"></i> TOMATO PRODUCT</a></li><li class="list-group-item clearfix"><a href="productslist54cb.html?cat=23"><i class="fa fa-angle-right"></i> SWEETS</a></li><li class="list-group-item clearfix"><a href="productslist2d79.html?cat=26"><i class="fa fa-angle-right"></i> GITS INSTANT POWDER </a></li><li class="list-group-item clearfix"><a href="productslistb60a.html?cat=27"><i class="fa fa-angle-right"></i> FROZEN ITEMS</a></li><li class="list-group-item clearfix"><a href="productslistb0b4.html?cat=48"><i class="fa fa-angle-right"></i> Indian Curry(Ready To Eat)</a></li><li class="list-group-item clearfix"><a href="productslist8e7f.html?cat=19"><i class="fa fa-angle-right"></i> PULP & JUICES</a></li><li class="list-group-item clearfix"><a href="productslistfa64.html?cat=24"><i class="fa fa-angle-right"></i> BAKERY PRODUCTS</a></li><li class="list-group-item clearfix"><a href="productslist5140.html?cat=25"><i class="fa fa-angle-right"></i> NAMKIN</a></li><li class="list-group-item clearfix"><a href="productslist29c7.html?cat=11"><i class="fa fa-angle-right"></i> BEANS</a></li><li class="list-group-item clearfix"><a href="productslist5b0d.html?cat=12"><i class="fa fa-angle-right"></i> COCONUT PRODUCTS</a></li><li class="list-group-item clearfix"><a href="productslist376e.html?cat=13"><i class="fa fa-angle-right"></i> GENERAL ITEMS</a></li><li class="list-group-item clearfix"><a href="productslist49ce.html?cat=14"><i class="fa fa-angle-right"></i> RICE PRODUCTS</a></li><li class="list-group-item clearfix"><a href="productslistb5e7.html?cat=15"><i class="fa fa-angle-right"></i> TEA</a></li><li class="list-group-item clearfix"><a href="productslist3f99.html?cat=16"><i class="fa fa-angle-right"></i> GHEE/OIL</a></li><li class="list-group-item clearfix"><a href="productslist4821.html?cat=20"><i class="fa fa-angle-right"></i> FOOD COLOR</a></li><li class="list-group-item clearfix"><a href="productslist9035.html?cat=22">
+				<i class="fa fa-angle-right"></i> INCENSE</a></li>
+			  </ul>
+            
+          </div>
+          <!-- END SIDEBAR -->
+        </div>
+        <!-- END SIDEBAR & CONTENT -->
+
+        <!-- BEGIN TWO PRODUCTS & PROMO -->
+        <div class="row margin-bottom-35 ">
+          <!-- BEGIN TWO PRODUCTS -->
+			<div class="col-md-6 two-items-bottom-items">            
+			</div>
+          <!-- END TWO PRODUCTS -->
+			<!-- BEGIN PROMO -->
+			<div class="col-md-6 shop-index-carousel"></div>
+			<!-- END PROMO -->
+        </div>        
+        <!-- END TWO PRODUCTS & PROMO -->
+      </div>
+    </div>
